@@ -1,0 +1,10 @@
+{
+  "theta": 4.907399828466801,
+  "theta_energy": {
+    "alpha_J_per_flop": 0.0,
+    "beta_J_per_byte": 2.3546285577130296e-09
+  },
+  "peak_flops": 8100000000000.0,
+  "peak_bandwidth": 320000000000.0,
+  "gpu": "Tesla T4"
+}
